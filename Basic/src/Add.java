@@ -13,7 +13,6 @@ public class Add {
 		Add add= new Add();
 		add.subtraction(9,7);
 		
-		
 
 
 	}
