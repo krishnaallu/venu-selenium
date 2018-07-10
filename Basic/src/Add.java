@@ -12,6 +12,9 @@ public class Add {
 		System.out.println(a+b);
 		Add add= new Add();
 		add.subtraction(9,7);
+		
+		
+
 
 	}
 
